@@ -38,7 +38,7 @@ To run bamazonSupervisor:
 
         * Create new department (this will allow the supervisor to create a new department)
 
-Video showing program in action: [Link to GoogleDrive](https://drive.google.com/file/d/1ytWtpTBPm-vjicntIrjI1vZhPSr-C7Xp/view)
+Video showing program in action: [Link to GoogleDrive](https://drive.google.com/file/d/1ytWtpTBPm-vjicntIrjI1vZhPSr-C7Xp/view?usp=sharing)
 
 Technologies used:
 
